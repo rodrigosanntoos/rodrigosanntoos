@@ -1,7 +1,7 @@
 ### Hi there, I'm Rodrigo 
 🔭 I’m currently working with React and Node using TypeScript. \
 🌱 I’m currently learning iOS. \
-👯 I’m looking to collaborate on accessibility projects.  \
+👯 I’m looking to collaborate on accessibility projects.
 
 #### Languages
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
