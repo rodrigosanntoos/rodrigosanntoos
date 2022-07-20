@@ -1,6 +1,5 @@
 ### Hi there, I'm Rodrigo 
 🔭 I’m currently working with React and Node using TypeScript. \
-🌱 I’m currently learning iOS. \
 👯 I’m looking to collaborate on accessibility projects.
 
 #### Languages
